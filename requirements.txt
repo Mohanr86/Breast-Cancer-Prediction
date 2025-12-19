@@ -1,0 +1,4 @@
+treamlit 
+scikit-learn 
+pandas 
+numpy
